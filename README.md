@@ -1,0 +1,2 @@
+# ObservableCollections
+This repo provides extended ObservableCollection types, including ObservableRangeCollection, SortableObservableCollection, FilteredObservableCollection and others
